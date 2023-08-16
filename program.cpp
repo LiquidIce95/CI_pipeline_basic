@@ -19,7 +19,6 @@ int main(int argc, char *argv[]){
     cout<<"\nDie Summe ist "<<res<<endl;
 
 
-    //comment to test github workflow
 
 
     return 0;
